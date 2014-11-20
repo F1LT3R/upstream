@@ -1,0 +1,6 @@
+[submodule "git_submodules/libmp3lame-js"]
+	path = git_submodules/libmp3lame-js
+	url = https://github.com/F1LT3R/libmp3lame-js
+[submodule "git_submodules/Recorderjs"]
+	path = git_submodules/Recorderjs
+	url = https://github.com/F1LT3R/Recorderjs
