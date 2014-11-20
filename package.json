@@ -1,0 +1,19 @@
+{
+  "name": "upstream",
+  "bin": {
+    "upstream": "server.js"
+  },
+  "main": "server.js",
+  "version": "0.0.1",
+  "description": "Records microphone input from your web browser to MP3 on a Node.js server.",
+  "author": "Alistair MacDonald <al@pwn.io>",
+  "email": "al@pwn.io",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "^1.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/f1lt3r/upstream.git"
+  }
+}
